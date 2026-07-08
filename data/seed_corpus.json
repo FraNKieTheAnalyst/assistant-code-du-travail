@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "source": "Legifrance / Code du travail numerique - saisie manuelle (Option C)",
+    "date_extraction": "2026-07-08",
+    "avertissement": "Corpus reduit a titre pedagogique. A completer via l'API Legifrance (Option A) ou le dump LEGI (Option B) pour un usage reel."
+  },
+  "articles": [
+    {
+      "id": "L3121-27",
+      "theme": "Duree du travail et heures supplementaires",
+      "titre": "Duree legale du travail effectif",
+      "texte": "La duree legale de travail effectif des salaries a temps complet est fixee a trente-cinq heures par semaine.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3121-28",
+      "theme": "Duree du travail et heures supplementaires",
+      "titre": "Definition des heures supplementaires",
+      "texte": "Toute heure de travail effectuee au-dela de la duree legale hebdomadaire, ou de la duree consideree comme equivalente, est une heure supplementaire qui ouvre droit a une majoration salariale ou, le cas echeant, a un repos compensateur equivalent.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3121-33",
+      "theme": "Duree du travail et heures supplementaires",
+      "titre": "Taux de majoration des heures supplementaires",
+      "texte": "Une convention ou un accord collectif d'entreprise ou d'etablissement, ou a defaut de branche, peut prevoir un taux de majoration different pour les heures supplementaires, sans que ce taux puisse etre inferieur a 10 %. A defaut d'accord, les heures supplementaires sont majorees de 25 % pour les huit premieres heures et de 50 % pour les heures suivantes.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3121-34",
+      "theme": "Duree du travail et heures supplementaires",
+      "titre": "Contingent annuel d'heures supplementaires",
+      "texte": "Un decret determine le contingent annuel d'heures supplementaires prevu a l'article L. 3121-30, applicable a defaut d'accord collectif fixant ce contingent.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3141-3",
+      "theme": "Conges payes",
+      "titre": "Acquisition des conges payes",
+      "texte": "Le salarie a droit a un conge de deux jours et demi ouvrables par mois de travail effectif chez le meme employeur. La duree totale du conge exigible ne peut exceder trente jours ouvrables.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3141-5",
+      "theme": "Conges payes",
+      "titre": "Periodes assimilees a du travail effectif",
+      "texte": "Sont considerees comme periodes de travail effectif pour la determination de la duree du conge les periodes de conge payes de l'annee precedente, de conge maternite, paternite ou d'adoption, ainsi que les periodes de suspension du contrat pour accident du travail ou maladie professionnelle.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3141-23",
+      "theme": "Conges payes",
+      "titre": "Conges supplementaires de fractionnement",
+      "texte": "Lorsque le conge principal est fractionne en dehors de la periode du 1er mai au 31 octobre, le salarie a droit a des jours de conge supplementaires : deux jours si le nombre de jours pris en dehors de cette periode est au moins egal a six, un seul jour si ce nombre est compris entre trois et cinq jours.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1221-1",
+      "theme": "Contrat de travail (CDI, CDD)",
+      "titre": "Principe de liberte contractuelle du contrat de travail",
+      "texte": "Le contrat de travail est soumis aux regles du droit commun. Il peut etre etabli selon les formes que les parties contractantes decident d'adopter.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1221-19",
+      "theme": "Contrat de travail (CDI, CDD)",
+      "titre": "Duree maximale de la periode d'essai (CDI)",
+      "texte": "Le contrat de travail a duree indeterminee peut comporter une periode d'essai dont la duree maximale est de deux mois pour les ouvriers et employes, trois mois pour les agents de maitrise et techniciens, quatre mois pour les cadres.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1242-1",
+      "theme": "Contrat de travail (CDI, CDD)",
+      "titre": "Principe de recours limite au CDD",
+      "texte": "Un contrat de travail a duree determinee, quel que soit son motif, ne peut avoir ni pour objet ni pour effet de pourvoir durablement un emploi lie a l'activite normale et permanente de l'entreprise.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1242-8",
+      "theme": "Contrat de travail (CDI, CDD)",
+      "titre": "Duree maximale du CDD",
+      "texte": "Sous reserve des dispositions de l'article L. 1242-8-1, la duree totale du contrat de travail a duree determinee, renouvellement inclus, ne peut exceder dix-huit mois.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1234-1",
+      "theme": "Licenciement",
+      "titre": "Duree du preavis de licenciement",
+      "texte": "Lorsque le licenciement n'est pas motive par une faute grave, le salarie a droit, s'il justifie chez le meme employeur d'une anciennete de services continus inferieure a six mois, a un preavis dont la duree est determinee par la loi, la convention ou les usages pratiques ; d'au moins six mois mais de moins de deux ans, a un preavis d'un mois ; de deux ans et plus, a un preavis de deux mois.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1234-9",
+      "theme": "Licenciement",
+      "titre": "Indemnite legale de licenciement",
+      "texte": "Le salarie titulaire d'un contrat de travail a duree indeterminee, licencie alors qu'il compte huit mois d'anciennete ininterrompus au service du meme employeur, a droit, sauf en cas de faute grave, a une indemnite de licenciement.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1233-3",
+      "theme": "Licenciement",
+      "titre": "Definition du licenciement pour motif economique",
+      "texte": "Constitue un licenciement pour motif economique le licenciement effectue par un employeur pour un ou plusieurs motifs non inherents a la personne du salarie resultant d'une suppression ou transformation d'emploi ou d'une modification, refusee par le salarie, d'un element essentiel du contrat de travail, consecutives notamment a des difficultes economiques, a des mutations technologiques, a une reorganisation de l'entreprise necessaire a la sauvegarde de sa competitivite, ou a la cessation d'activite de l'entreprise.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1235-3",
+      "theme": "Licenciement",
+      "titre": "Bareme d'indemnisation en cas de licenciement sans cause reelle et serieuse",
+      "texte": "Si le licenciement d'un salarie survient pour une cause qui n'est pas reelle et serieuse, le juge octroie au salarie une indemnite a la charge de l'employeur, dont le montant est compris entre des montants minimaux et maximaux fixes en fonction de l'anciennete du salarie dans l'entreprise, exprimes en mois de salaire brut.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1237-11",
+      "theme": "Rupture conventionnelle",
+      "titre": "Principe de la rupture conventionnelle",
+      "texte": "L'employeur et le salarie peuvent convenir en commun des conditions de la rupture du contrat de travail qui les lie. La rupture conventionnelle, exclusive du licenciement ou de la demission, ne peut etre imposee par l'une ou l'autre des parties. Elle resulte d'une convention signee par les parties au contrat.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1237-12",
+      "theme": "Rupture conventionnelle",
+      "titre": "Entretien(s) prealable(s) et assistance des parties",
+      "texte": "Les parties au contrat conviennent du principe d'une rupture conventionnelle lors d'un ou plusieurs entretiens au cours desquels le salarie peut se faire assister soit par une personne de son choix appartenant au personnel de l'entreprise, soit, en l'absence d'institution representative du personnel, par un conseiller du salarie choisi sur une liste dressee par l'autorite administrative.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1237-13",
+      "theme": "Rupture conventionnelle",
+      "titre": "Indemnite, date de rupture et droit de retractation",
+      "texte": "La convention de rupture definit les conditions de celle-ci, notamment le montant de l'indemnite specifique de rupture conventionnelle qui ne peut pas etre inferieur a celui de l'indemnite prevue a l'article L. 1234-9. Elle fixe la date de rupture du contrat de travail, qui ne peut intervenir avant le lendemain du jour de l'homologation. A compter de la date de sa signature par les deux parties, chacune d'entre elles dispose d'un delai de quinze jours calendaires pour exercer son droit de retractation.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1237-14",
+      "theme": "Rupture conventionnelle",
+      "titre": "Homologation par l'autorite administrative",
+      "texte": "A l'issue du delai de retractation, la partie la plus diligente adresse une demande d'homologation a l'autorite administrative, avec un exemplaire de la convention de rupture. L'autorite administrative dispose d'un delai d'instruction de quinze jours ouvrables a compter de la reception de la demande pour s'assurer du respect des conditions et de la liberte de consentement des parties.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3231-2",
+      "theme": "Salaire minimum (SMIC)",
+      "titre": "Garantie du salaire minimum de croissance",
+      "texte": "Le salaire minimum de croissance assure aux salaries dont les remunerations sont les plus faibles la garantie de leur pouvoir d'achat et une participation au developpement economique de la nation.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3231-4",
+      "theme": "Salaire minimum (SMIC)",
+      "titre": "Revalorisation du SMIC",
+      "texte": "Le salaire minimum de croissance ne peut jamais etre inferieur au salaire minimum de croissance en vigueur anterieurement. Il fait l'objet d'une revalorisation annuelle au 1er janvier et de revalorisations en cours d'annee en cas d'inflation constatee.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L2312-8",
+      "theme": "Representation du personnel",
+      "titre": "Attributions generales du comite social et economique",
+      "texte": "Le comite social et economique a pour mission d'assurer une expression collective des salaries permettant la prise en compte permanente de leurs interets dans les decisions relatives a la gestion et a l'evolution economique et financiere de l'entreprise, a l'organisation du travail, a la formation professionnelle et aux techniques de production.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L2311-2",
+      "theme": "Representation du personnel",
+      "titre": "Seuil d'effectif pour la mise en place du CSE",
+      "texte": "Un comite social et economique est mis en place dans les entreprises d'au moins onze salaries, des lors que cet effectif est atteint pendant douze mois consecutifs.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1152-1",
+      "theme": "Harcelement et discrimination",
+      "titre": "Interdiction du harcelement moral",
+      "texte": "Aucun salarie ne doit subir les agissements repetes de harcelement moral qui ont pour objet ou pour effet une degradation de ses conditions de travail susceptible de porter atteinte a ses droits et a sa dignite, d'alterer sa sante physique ou mentale ou de compromettre son avenir professionnel.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1152-2",
+      "theme": "Harcelement et discrimination",
+      "titre": "Protection du salarie ayant temoigne ou refuse de subir un harcelement",
+      "texte": "Aucun salarie ne peut etre sanctionne, licencie ou faire l'objet d'une mesure discriminatoire pour avoir subi ou refuse de subir des agissements repetes de harcelement moral, ou pour avoir temoigne de tels agissements ou les avoir relates.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1132-1",
+      "theme": "Harcelement et discrimination",
+      "titre": "Principe de non-discrimination",
+      "texte": "Aucune personne ne peut etre ecartee d'une procedure de recrutement, sanctionnee, licenciee ou faire l'objet d'une mesure discriminatoire en raison de son origine, de son sexe, de ses moeurs, de son orientation sexuelle, de son age, de sa situation de famille, de ses caracteristiques genetiques, de son appartenance ou de sa non-appartenance, vraie ou supposee, a une ethnie, une nation ou une race, de ses opinions politiques, de ses activites syndicales, de ses convictions religieuses, de son apparence physique, de son nom de famille, de son lieu de residence, de son etat de sante ou de son handicap.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1153-1",
+      "theme": "Harcelement et discrimination",
+      "titre": "Definition du harcelement sexuel",
+      "texte": "Aucun salarie ne doit subir des faits de harcelement sexuel, constitue par des propos ou comportements a connotation sexuelle ou sexiste repetes qui soit portent atteinte a sa dignite en raison de leur caractere degradant ou humiliant, soit creent a son encontre une situation intimidante, hostile ou offensante. Est assimile au harcelement sexuel le fait, meme non repete, d'user de toute forme de pression grave dans le but reel ou apparent d'obtenir un acte de nature sexuelle, que celui-ci soit recherche au profit de l'auteur des faits ou au profit d'un tiers.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1153-2",
+      "theme": "Harcelement et discrimination",
+      "titre": "Protection contre les represailles en cas de harcelement sexuel",
+      "texte": "Aucun salarie, aucune personne en formation ou en stage ne peut etre sanctionne, licencie ou faire l'objet d'une mesure discriminatoire pour avoir subi ou refuse de subir des faits de harcelement sexuel, ou pour avoir temoigne de tels faits ou les avoir relates.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1153-5",
+      "theme": "Harcelement et discrimination",
+      "titre": "Obligation de prevention du harcelement sexuel par l'employeur",
+      "texte": "L'employeur prend toutes dispositions necessaires en vue de prevenir les faits de harcelement sexuel, d'y mettre un terme et de les sanctionner. Dans toute entreprise employant au moins deux cent cinquante salaries est designe un referent charge d'orienter, d'informer et d'accompagner les salaries en matiere de lutte contre le harcelement sexuel et les agissements sexistes.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1232-2",
+      "theme": "Licenciement",
+      "titre": "Convocation a l'entretien prealable de licenciement",
+      "texte": "L'employeur qui envisage de licencier un salarie le convoque, avant toute decision, a un entretien prealable. La convocation est effectuee par lettre recommandee ou par lettre remise en main propre contre decharge. Cette lettre indique l'objet de la convocation.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1232-6",
+      "theme": "Licenciement",
+      "titre": "Notification du licenciement par lettre motivee",
+      "texte": "Lorsque l'employeur decide de licencier un salarie, il lui notifie sa decision par lettre recommandee avec avis de reception. Cette lettre comporte l'enonce du ou des motifs invoques par l'employeur.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1233-4",
+      "theme": "Licenciement",
+      "titre": "Obligation de reclassement prealable au licenciement economique",
+      "texte": "Le licenciement pour motif economique d'un salarie ne peut intervenir que lorsque tous les efforts de formation et d'adaptation ont ete realises et que le reclassement de l'interesse ne peut etre opere sur les emplois disponibles, situes sur le territoire national dans l'entreprise ou les autres entreprises du groupe dont l'entreprise fait partie.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1233-38",
+      "theme": "Licenciement",
+      "titre": "Ordre des licenciements economiques",
+      "texte": "L'employeur definit les criteres retenus pour fixer l'ordre des licenciements, apres consultation du comite social et economique. Ces criteres prennent notamment en compte les charges de famille, l'anciennete de service, la situation des salaries qui presentent des caracteristiques sociales rendant leur reinsertion professionnelle particulierement difficile, et les qualites professionnelles.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1242-2",
+      "theme": "Contrat de travail (CDI, CDD)",
+      "titre": "Cas de recours autorises au CDD",
+      "texte": "Un contrat de travail a duree determinee ne peut etre conclu que pour l'execution d'une tache precise et temporaire, notamment le remplacement d'un salarie absent, l'accroissement temporaire de l'activite de l'entreprise, ou un emploi a caractere saisonnier.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1243-8",
+      "theme": "Contrat de travail (CDI, CDD)",
+      "titre": "Indemnite de fin de contrat (prime de precarite)",
+      "texte": "Lorsque, a l'issue d'un contrat de travail a duree determinee, les relations contractuelles de travail ne se poursuivent pas par un contrat a duree indeterminee, le salarie a droit, a titre de complement de salaire, a une indemnite de fin de contrat destinee a compenser la precarite de sa situation.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L1226-1",
+      "theme": "Contrat de travail (CDI, CDD)",
+      "titre": "Maintien de salaire en cas d'arret maladie",
+      "texte": "Tout salarie ayant une anciennete minimale dans l'entreprise, en cas d'absence au travail justifiee par l'incapacite resultant de maladie ou d'accident constatee par certificat medical, beneficie d'une indemnisation complementaire aux indemnites journalieres de securite sociale, sous conditions d'anciennete et de delai.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L2314-1",
+      "theme": "Representation du personnel",
+      "titre": "Composition et election du comite social et economique",
+      "texte": "Les membres de la delegation du personnel au comite social et economique sont elus par deux colleges electoraux distincts, un pour les ouvriers et employes, un pour les ingenieurs, chefs de service, techniciens, agents de maitrise et cadres, sauf accord ou dispositions particulieres.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L2143-3",
+      "theme": "Representation du personnel",
+      "titre": "Designation d'un delegue syndical",
+      "texte": "Chaque organisation syndicale representative dans l'entreprise ou l'etablissement de cinquante salaries ou plus peut designer un ou plusieurs delegues syndicaux pour la representer aupres de l'employeur.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3231-1",
+      "theme": "Salaire minimum (SMIC)",
+      "titre": "Champ d'application du SMIC",
+      "texte": "Sont applicables, sauf dispositions plus favorables resultant de conventions ou d'accords collectifs de travail ou de contrats individuels, un salaire minimum de croissance calcule conformement aux dispositions du present chapitre, applicable a tous les salaries dont l'age et la categorie professionnelle sont determines par voie reglementaire.",
+      "date_maj": "2026-07-08"
+    },
+    {
+      "id": "L3121-30",
+      "theme": "Duree du travail et heures supplementaires",
+      "titre": "Contrepartie obligatoire en repos au-dela du contingent",
+      "texte": "Les heures supplementaires accomplies au-dela du contingent annuel ouvrent droit a une contrepartie obligatoire sous forme de repos, en plus des majorations salariales ou du repos compensateur de remplacement dus au titre de ces heures.",
+      "date_maj": "2026-07-08"
+    }
+  ]
+}
