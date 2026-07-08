@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Assistant Code du travail (RAG) - specifique au projet ---
+# Base vectorielle et index lexical persistes : reconstruits localement via
+# `python -m src.cli index`, ne doivent pas etre commites (gros fichiers,
+# regeneres a partir du corpus source).
+data/chroma_db/
+data/bm25_index.pkl
+data/index_meta.json
+data/corpus.json
